@@ -1,0 +1,3 @@
+10 PHP Notice:  Undefined index: profileImage in /var/www/main/event/html/index1.php on line 265
+12 PHP warning:  Undefined index: profileImage in /var/www/main/data/html/index2.php on line 265
+20 PHP Fatal error:  Undefined index: profileImage in /var/www/main/alok/html/index3.php on line 265
